@@ -1,6 +1,5 @@
-"Laravel 5.7"
+## tienda online en laravel 5.7 y vuejs  
 
-"# tienda_laravel" 
 
 
 
